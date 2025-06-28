@@ -1,7 +1,7 @@
 ## Opa! Me chamo Marlon Perez!
 
-- 🌱 Estudo Python
-- 🚀 Futuro programador FullStack
+- 🌱 Python Study
+- 🚀 Future FullStack Programmer
 
 <div>
   <a href="https://github.com/marlonperezpr">
